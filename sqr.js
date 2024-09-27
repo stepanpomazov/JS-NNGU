@@ -15,6 +15,9 @@ var restart = confirm("Начать заново?");
 
 if (restart == true) {
     alert("Не надоело?");
+    alert("Не надоело?");
+    alert("Не надоело?");
+    alert("Не надоело?");
 } else {
     alert("Ну и правильно!");
 }
