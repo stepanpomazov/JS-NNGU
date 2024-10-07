@@ -58,3 +58,4 @@ console.log(firstElemToUpperCase("василий"));
 
 // let toUp = (stroka) => console.log(stroka[0].toUpperCase() + stroka.slice(1));
 // toUp('вася');
+//
