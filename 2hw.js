@@ -114,6 +114,6 @@
 
 
 //10
-let sumOfSquares = (N) => {summ = 0; for(let i = 1; i <= N; i++){ summ += i**2;} return summ;};
-console.log(sumOfSquares(5));
+// let sumOfSquares = (N) => {summ = 0; for(let i = 1; i <= N; i++){ summ += i**2;} return summ;};
+// console.log(sumOfSquares(5));
 
