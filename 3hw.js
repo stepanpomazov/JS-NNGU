@@ -149,3 +149,7 @@
 //     console.log(`${name} имеет возраст ${age} и он ${ageStatus}.`);
 // }
 // describePerson('Иван', 99);
+//
+//
+//
+//
